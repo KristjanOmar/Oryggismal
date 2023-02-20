@@ -92,7 +92,7 @@ Yes, I was. I had internet access and the required permissions to access the int
 
 * No, I wasn't as I lacked the required permissions to perfom such a task
 
-### Navigate to **C:\ **. Can you place a text file in the **Staff** folder? Can you modify the text file in folder **Student02**? Explain.
+### Navigate to **C:\**. Can you place a text file in the **Staff** folder? Can you modify the text file in folder **Student02**? Explain.
 
 * No, I don't have the permissions to do that. Yes, I can, as I have full control over that folder.
 
