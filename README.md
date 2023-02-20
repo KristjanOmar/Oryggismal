@@ -27,6 +27,33 @@ No, because the default settings basically cover everything that you will need o
 ---
 
 ## 13.3.3.6 Configure Users and Groups in Windows
+### What are the names of the accounts listed? [in *Computer Management*]
+
+* Administrator
+* DefaultAccount
+* Guest
+* Kristján
+* WDAGUtilityAccount
+
+### Select the **Groups** folder. Name five groups from the list.
+
+* Backup Operators
+* Device Owners
+* Event Log Readers
+* Power Users
+* Replicator
+
+### Which group does your account belong to?
+
+* Administrators
+
+### What is Student01 required to do when logging in the first time? [creating a user]
+
+* They must change their password
+
+### 
+
+---
 
 ## 13.3.4.6 Lab - Configure Windows Firewall
 
