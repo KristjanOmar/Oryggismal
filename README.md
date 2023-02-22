@@ -1,4 +1,4 @@
-# Öryggismál [[[[ rangt]]]]
+# Öryggismál [[[[ rangt skv lokaverkefnislýsingu]]]]
 
 ## 13.2.3.7 Bitlocker and Bitlocker To Go
 ### Why is it important to save a BitLocker recovery key?
@@ -128,6 +128,38 @@ By denying full control to every user except the owner
 
 * It can help prevent hackers or malicious software from gaining access to one's PC through the Internet or a network
 
-###
+### Describe a negative consequence of having too many exceptions.
+
+* It will take up more bandwidth, leaving less bandwidth for legitimate services
+
+### Can you connect to PC-1 and view the Cisco shared folder?
+
+* No, I can't due to an error
+
+### Did you receive an error message on PC-2? If so, what was the Error message?
+
+* Yes, I did. It reads: Windows can not access \\PC-1
+
+### Can you connect to computer 1? Explain.
+
+* Yes, now I can since PC-1 can now share files due to *File and Printer Sharing* being turned on
+
+### List the short name of four services that are available in the **Customize Service Settings** window.
+
+* AJRouter
+* ALG
+* Appinfo
+* AppXSvc
+
+### List four of the specific ICMP types.
+
+* Source Quench
+* Router Advertisement
+* Time Exceeded
+* Timestamp Request
+
+### What are some possible reasons you may need to make firewall changes?
+
+* You may need to block access for harmful services or to allow access for services that you need to use
 
 ---
