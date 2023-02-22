@@ -12,6 +12,16 @@
 ---
 
 ## 13.3.2.5 Configure Windows Local Security Policy
+
+| Policy                                      | Security Setting |
+|---------------------------------------------|------------------|
+| Enforce password history                    | 8                |
+| Maximum password age                        | 90               |
+| Minimum password age                        | 1                |
+| Minimum password length                     | 8                |
+| Password must meet complexity requirements  | Enabled          |
+| Store passwords using reversible encryption | Disabled         |
+
 ### According to the security policy in Step 1, how many times is a user allowed to attempt to login before the account is locked?
 
 * 5 times
@@ -22,7 +32,15 @@
 
 ### Are there any you would recommend changing? Why? [Local Security Policy > Local Policies > User Rights Assignment]
 
-No, because the default settings basically cover everything that you will need on the computer, so nothing has to be changed unless absolutely necessary
+No, because the default settings basically cover everything that you will need on the computer, so nothing has to be changed unless absolutely necessary [[[[]]]]
+
+| Policy                                                              | Security Setting                                                    |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|
+| Interactive logon: Machine inactivity limit                         | 1800 seconds                                                        |
+| Devices: Allow undock without having to log on                      | Disabled                                                            |
+| Interactive logon: Message title for users attempting to log on     | Caution:                                                            |
+| Interactive logon: Message text for users attempting to log on      | Your activity is monitored. This computer is for business use only. |
+| Interactive logon: Prompt user to change password before expiration | 7 days                                                              |
 
 ---
 
