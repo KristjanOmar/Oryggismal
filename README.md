@@ -32,7 +32,7 @@
 
 ### Are there any you would recommend changing? Why? [Local Security Policy > Local Policies > User Rights Assignment]
 
-No, because the default settings basically cover everything that you will need on the computer, so nothing has to be changed unless absolutely necessary [[[[]]]]
+I would change the security setting for *Change the time zone* so that only administrators and the LOCAL SERVICE can change that and the security setting *Access this computer from the network* so that not *Everyone* can access the computer
 
 | Policy                                                              | Security Setting                                                    |
 |---------------------------------------------------------------------|---------------------------------------------------------------------|
