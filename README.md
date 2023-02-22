@@ -1,4 +1,4 @@
-# Öryggismál
+# Öryggismál [[[[ rangt]]]]
 
 ## 13.2.3.7 Bitlocker and Bitlocker To Go
 ### Why is it important to save a BitLocker recovery key?
@@ -120,5 +120,14 @@ By denying full control to every user except the owner
 ---
 
 ## 13.3.4.6 Lab - Configure Windows Firewall
+### Under PC-1, are you able to see the shared folder **Cisco**?
 
-## 13.4.1.10 Packet Tracer - Configure Wireless Security
+* Yes, I am
+
+### What are the benefits of Windows Firewall?
+
+* It can help prevent hackers or malicious software from gaining access to one's PC through the Internet or a network
+
+###
+
+---
