@@ -1,4 +1,4 @@
-# Öryggismál [[[[ rangt skv lokaverkefnislýsingu]]]]
+# Öryggismál
 
 ## 13.2.3.7 Bitlocker and Bitlocker To Go
 ### Why is it important to save a BitLocker recovery key?
